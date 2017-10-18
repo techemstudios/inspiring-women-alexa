@@ -2,6 +2,8 @@
 
 Follow along with the presentation materials provided HERE to code your first Alexa skill!  
 
+*Note: In order for the presentation's hyperlinks to work, you must click the Download button and open the PDF.*
+
 ### What You Will Learn
 This repo contains a simple example that implements a basic fact skill in Python. Through the process of creating a skill, you will learn:
 * Voice User Interface (VUI) design
