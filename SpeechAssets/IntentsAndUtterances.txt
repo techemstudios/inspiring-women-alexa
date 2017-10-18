@@ -1,13 +1,27 @@
-Plug these values for intents and their corresponding utterances into the Alexa Skill Builder: 
-
 Intent: ScienceCategory
-Utterances: science, science category, scientific, scientific category, scientist, scientist category  
+Utterances: science
+            scientific
+            scientist 
 
 Intent: TechnologyCategory
-Utterances: technology, technology category, tech, tech category, technical, technical category
+Utterances: technology
+            tech
+            technical 
 
 Intent: EngineeringCategory
-Utterances: engineering, engineering category, engineer, engineer category
+Utterances: engineering
+            engineer
 
 Intent: MathCategory
-Utterances: math, math category, mathematics, mathematics category, mathematician, mathematician category, mathematical 
+Utterances: math
+            mathematics
+            mathematician
+            mathematical 
+
+Intent: UnhandledIntent
+Utterances: blah blah blah
+           dlfshsdgn
+           kdfa dfsl
+           pixie dust
+           hi
+           a 
