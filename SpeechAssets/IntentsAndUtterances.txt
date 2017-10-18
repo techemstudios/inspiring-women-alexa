@@ -1,4 +1,4 @@
-Plug these values for intents and their corresponding utterances into the Skill Builder: 
+Plug these values for intents and their corresponding utterances into the Alexa Skill Builder: 
 
 Intent: ScienceCategory
 Utterances: science, science category, scientific, scientific category, scientist, scientist category  
