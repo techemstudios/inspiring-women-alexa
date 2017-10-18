@@ -19,7 +19,6 @@ To add an intent:
    a user invokes the intent. 
 * Note: it's the same concept to update or delete intents. Just make sure that there is a function 
 in this lambda for each intent in the Skill Builder.  
-Skill Builder match the function names 
 """
 
 import sys
