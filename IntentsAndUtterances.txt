@@ -1,0 +1,27 @@
+Intent: ScienceCategory
+Utterances: science
+            scientific
+            scientist 
+
+Intent: TechnologyCategory
+Utterances: technology
+            tech
+            technical 
+
+Intent: EngineeringCategory
+Utterances: engineering
+            engineer
+
+Intent: MathCategory
+Utterances: math
+            mathematics
+            mathematician
+            mathematical 
+
+Intent: UnhandledIntent
+Utterances: blah blah blah
+           dlfshsdgn
+           kdfa dfsl
+           pixie dust
+           hi
+           a 
