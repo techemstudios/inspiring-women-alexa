@@ -30,5 +30,5 @@ This repo contains a simple example that implements a basic fact skill in Python
 
 ### Make it Your Own
 
-1. Follow along with the presentation materials to copy the intents, utterances and lambda function into your own Developer and AWS accounts.  
+1. Follow along with the presentation materials to copy the intents, utterances and lambda from this GitHub repo into your own Developer and AWS accounts.  
 2.  Change up the intent schema, utterances, and lambda function to make it your own. 
