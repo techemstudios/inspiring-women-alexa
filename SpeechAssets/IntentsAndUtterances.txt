@@ -1,0 +1,13 @@
+Plug these values for intents and their corresponding utterances into the Skill Builder: 
+
+Intent: ScienceCategory
+Utterances: science, science category, scientific, scientific category, scientist, scientist category  
+
+Intent: TechnologyCategory
+Utterances: technology, technology category, tech, tech category, technical, technical category
+
+Intent: EngineeringCategory
+Utterances: engineering, engineering category, engineer, engineer category
+
+Intent: MathCategory
+Utterances: math, math category, mathematics, mathematics category, mathematician, mathematician category, mathematical 
