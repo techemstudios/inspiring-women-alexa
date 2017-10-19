@@ -5,9 +5,9 @@ Username: alexa@techemstudios.com
 Password: techme17  
 
 2. Login to the demo AWS account:   
-https://aws.amazon.com
-Username 1: 694910018021
-Username: lambda@techemstudios.com  
+https://aws.amazon.com  
+Username 1: 694910018021  
+Username: lambda@techemstudios.com   
 Password: techme17  
 
 
