@@ -1,21 +1,13 @@
-### FIRST STEPS
-1. Login to the demo Developer account:  
-https://developer.amazon.com   
-Username: alexa@techemstudios.com  
-Password: techme17  
-
-2. Login to the demo AWS account:   
-https://console.aws.amazon.com  
-Account ID: 694910018021  
-Username: lambda@techemstudios.com   
-Password: techme17  
-
-
 # Create your first Alexa skill! 
 
 Follow along with the [presentation materials](https://github.com/techemstudios/inspiring-women-alexa/raw/master/Create%20Your%20First%20Alexa%20Skill.pdf) to code your first Alexa skill!  
 
 *Note: In order for the presentation's hyperlinks to work, you have to Download the PDF.*
+
+### What You Will Need
+* [Amazon Developer Account](https://developer.amazon.com/)
+* [Amazon Web Services Account](https://aws.amazon.com/)
+* The sample code in this GitHub repo 
 
 ### What You Will Learn
 This repo contains a simple example that implements a basic fact skill in Python. Through the process of creating a skill, you will learn:
@@ -23,11 +15,6 @@ This repo contains a simple example that implements a basic fact skill in Python
 * SSML
 * Lambda Services
 * Simple Python functions
-
-### What You Will Need
-* [Amazon Developer Account](https://developer.amazon.com/)
-* [Amazon Web Services Account](https://aws.amazon.com/)
-* The sample code in this GitHub repo 
 
 ### Make it Your Own
 
